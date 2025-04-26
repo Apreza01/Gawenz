@@ -1,0 +1,6 @@
+{
+    "deploy": {
+      "startCommand": "php artisan migrate --force && php-fpm"
+    }
+  }
+  
